@@ -159,35 +159,6 @@ alt="GitHub Contribution Streak"
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-[![Basir's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=basiruddin0&bg_color=ffffff00&color=58a6ff&line=58a6ff&point=1f6feb&area_color=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/basiruddin0)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=basiruddin0&show_icons=true&hide_title=true&hide_rank=true&hide=issues,prs&include_all_commits=true&count_private=true&custom_title=Contribution%20Overview&hide_border=true&theme=transparent"
-/>
-
-</div>
-
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-![GitHub Contribution Calendar](https://ghchart.rshah.org/58a6ff/basiruddin0)
-
-</div>
-
----
 
 # 💼 Professional Experience
 
