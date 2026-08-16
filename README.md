@@ -189,20 +189,6 @@ Worked with the agency's IT team on WordPress and web development projects.
 
 ---
 
-# 🎯 Development Philosophy
-
-I believe a great website should do more than look good.
-
-It should:
-
-**Build trust.**  
-**Communicate clearly.**  
-**Load quickly.**  
-**Work everywhere.**  
-**Guide users toward action.**  
-**Support business growth.**
-
----
 
 # 📩 Let's Work Together
 
